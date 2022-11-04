@@ -1,0 +1,2 @@
+# Start_web_seriously
+Initial_statment_for Website_design
